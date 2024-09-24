@@ -1,16 +1,54 @@
-## Hi there 👋
+# 👋 Hi, I'm Ahmed Mohiuddin
 
-<!--
-**Ahmed-NEEDGlobal/Ahmed-NEEDGlobal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎨 **Versatile Full-Stack Developer**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I'm a dedicated full-stack developer with expertise across a wide range of technologies. My passion lies in building scalable and efficient applications that provide real-world solutions.
+
+---
+
+## 🛠️ Technologies & Tools
+
+**Front-End:**
+- HTML, CSS, JavaScript, TypeScript
+- React, Next.js
+- Tailwind CSS
+
+**Back-End:**
+- Node.js, Express.js, NestJS
+
+**Databases:**
+- PostgreSQL, MongoDB, SurrealDB, Hasura
+
+**Languages:**
+- JavaScript, TypeScript
+
+**Testing:**
+- Jest
+
+---
+
+## 🔍 My Development Approach
+
+### 1. Planning & Onboarding
+- Understanding project requirements
+- Establishing a technical roadmap
+
+### 2. Development Process
+- Agile methodologies with weekly sprints
+- Continuous Deployment for real-time feedback
+
+---
+
+## 🛡️ Services I Offer
+
+- Full-Stack Development
+- Database Optimization
+- API Development & Integration
+
+---
+
+Let's collaborate and create exceptional digital experiences! ✨
