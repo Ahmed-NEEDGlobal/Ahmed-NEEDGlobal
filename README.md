@@ -24,7 +24,7 @@ I'm a dedicated full-stack developer with expertise across a wide range of techn
 - PostgreSQL, MongoDB, SurrealDB, Hasura
 
 **Languages:**
-- JavaScript, TypeScript, C, C++, Rust, Java
+- JavaScript, TypeScript, C, C++, Python, Go
 
 **Testing:**
 - Jest
