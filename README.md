@@ -18,7 +18,7 @@ I'm a dedicated full-stack developer with expertise across a wide range of techn
 - Tailwind CSS
 
 **Back-End:**
-- Node.js, Express.js, NestJS
+- Node.js, Express.js, NestJS, HonoJS
 
 **Databases:**
 - PostgreSQL, MongoDB, SurrealDB, Hasura
